@@ -1,6 +1,6 @@
 # raytracer
 
-A GLSL implementation of Shirley et al.'s [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html). 
+A GLSL implementation of Shirley et al.'s [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html), with photorealistic rendering of diffuse, metallic (reflective), and dialetric (refractive) materials.
 
 The final result:
 
